@@ -1,0 +1,2 @@
+/usr/lib/adaptation-xiaomi-merlin/sources.list.d/community-xiaomi-merlin.list /etc/apt/sources.list.d/community-xiaomi-merlin.list
+/usr/lib/adaptation-xiaomi-merlin/trusted.gpg.d/community-xiaomi-merlin.gpg /etc/apt/trusted.gpg.d/community-xiaomi-merlin.gpg
