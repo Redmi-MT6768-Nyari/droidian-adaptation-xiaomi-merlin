@@ -9,7 +9,7 @@ Standards-Version: 4.5.0.3
 Package: adaptation-xiaomi-merlin
 Architecture: arm64
 Depends: ${misc:Depends},
-         adaptation-hybris-api29-phone,
+         adaptation-hybris-api30-phone,
          adaptation-xiaomi-merlin-configs (= ${binary:Version}),
 Description: Community adaptation for xiaomi-merlin - metapackage
 

@@ -17,6 +17,3 @@ setprop wifi.interface wlan0
 # Enable WoWLAN to avoid network disconnect before suspend
 while [ ! -e /sys/class/ieee80211/phy0 ]; do sleep 1; done
 iw phy phy0 wowlan enable magic-packet
-
-# disable VoLTE until we have vendor services implementation to fix LTE
-setprop persist.vendor.mtk.volte.enable 0
