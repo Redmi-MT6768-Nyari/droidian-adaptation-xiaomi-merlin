@@ -1,3 +1,0 @@
-# Default rate=44100 breaks cs45l41 amplifier initialization
-# which is required for speakers audio playback
-load-module module-droid-discover rate=48000 voice_virtual_stream=true hidl_args='helper=false'
