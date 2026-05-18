@@ -1,6 +1,6 @@
-adaptation-xiaomi-merlin (0.0.0+git20250211093714.d5e2969.bookworm) bookworm; urgency=medium
+adaptation-xiaomi-merlin (0.0.0+git20250211093714.d5e2969.bookworm+git20260508123228.bf96a5a.halium.13) halium-13; urgency=medium
 
-  * Initial commit
+  * droidian: Jbub5
 
- -- Sanakhat Chari <zadigsm@outlook.com>  Tue, 11 Feb 2025 16:37:14 +0700
+ -- Jbub5 <133902109+Jbub5@users.noreply.github.com>  Fri, 08 May 2026 19:32:28 +0700
 

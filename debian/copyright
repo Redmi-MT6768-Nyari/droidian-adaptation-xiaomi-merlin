@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: adaptation-xiaomi-merlin
-Source: <PLEASE_FILL_HERE>
+Source: https://github.com/Redmi-MT6768-Nyari/droidian-adaptation-xiaomi-merlin
 
 Files: *
 Copyright: 2025 Sanakhat Chari <zadigsm@outlook.com>

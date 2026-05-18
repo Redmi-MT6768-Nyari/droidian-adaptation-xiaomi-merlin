@@ -1,2 +1,1 @@
-# You can add here your custom apt repositories
-deb https://yuztra.github.io/droidian-pkgs stable main
+deb https://7jari.github.io/droidian-debs stable main
